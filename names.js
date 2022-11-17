@@ -27,3 +27,19 @@ const a = [
   "destructive",
   "harmful"
 ];
+
+const b = [
+  "troublemaker",
+  "dissident",
+  "agitator",
+  "disruptor",
+  "revolutionary",
+  "revolutionist",
+  "insurgent",
+  "insurrectionist",
+  "insurrectionary",
+  "renegade",
+  "rebel",
+  "mutineer",
+  "traitor",
+];
